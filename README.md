@@ -7,7 +7,7 @@
 
 - [Community](#community)
 - [Resources](#resources)
-- [Contributing](#contributing)
+- [Contributing](#i-want-to-contribute)
 - [License](#license)
 
 
@@ -28,11 +28,14 @@
 - [PicoLove](https://github.com/ftsf/picolove) - Pico-8 Reimplementation in Love2D
 - [Sprite Editor](http://www.lexaloffle.com/bbs/?tid=2462) - External sprite editor compatible with Pico-8 and PicoLove
 
-## Contributing
+## Blogs, Magazines, etc
+- [PicoZine #1](http://sectordub.itch.io/pico-8-fanzine-1) and [#2](http://sectordub.itch.io/pico-8-fanzine-2) - PICO-8 Zine is a 48-page fanzine made by and for PICO-8 users
 
-You're awesome! :smile:
+## I Want to Contribute!
 
-Please, make sure to read the [contribution guidelines](CONTRIBUTING.md) first.
+Great! :smiley:
+
+Just read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
 
