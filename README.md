@@ -24,6 +24,10 @@
 
 ## Resources
 
+## Tools
+- [PicoLove](https://github.com/ftsf/picolove) - Pico-8 Reimplementation in Love2D
+- [Sprite Editor](http://www.lexaloffle.com/bbs/?tid=2462) - External sprite editor compatible with Pico-8 and PicoLove
+
 ## Contributing
 
 You're awesome! :smile:
