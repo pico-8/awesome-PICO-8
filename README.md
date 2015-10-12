@@ -6,7 +6,6 @@
 
 
 - [Community](#community)
-- [Tools](#tools)
 - [Resources](#resources)
 - [Contributing](#contributing)
 - [License](#license)
