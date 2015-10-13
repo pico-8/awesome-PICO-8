@@ -26,6 +26,11 @@
 - [Official Manual](http://www.lexaloffle.com/pico-8.php?page=manual) - Placeholder dump of pico-8.txt! (Proper manual coming soon).
 - [Cheat Sheet](https://dl.dropboxusercontent.com/u/3594143/yal.cc/r/picodoc/index.html) - by [YellowAfterlife](http://twitter.com/yellowafterlife). Based on the official manual, with edits where found appropriate.
 
+## Tutorials
+- [Music Tracker Tutorial Series](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg) - Making audio with PICO-8
+- [Tron Lightcycle game from scratch](https://youtu.be/ZuaLuMhwcc8) - A quick introduction to PICO-8 writing a game from scratch
+
+
 ## Tools
 - [PicoLove](https://github.com/ftsf/picolove) - Pico-8 Reimplementation in Love2D.
 - [Sprite Editor](http://www.lexaloffle.com/bbs/?tid=2462) - External sprite editor compatible with Pico-8 and PicoLove.
