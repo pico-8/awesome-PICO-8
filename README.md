@@ -23,21 +23,21 @@
 - [Pico-8 Wiki](http://pico-8.wikia.com/wiki/Pico-8_Wikia)
 
 ## Resources
-- [Official Manual](http://www.lexaloffle.com/pico-8.php?page=manual) - Placeholder dump of pico-8.txt! (Proper manual coming soon)
-- [Cheat Sheet](https://dl.dropboxusercontent.com/u/3594143/yal.cc/r/picodoc/index.html) - by [YellowAfterlife](http://twitter.com/yellowafterlife). Based on the official manual, with edits where found appropriate
+- [Official Manual](http://www.lexaloffle.com/pico-8.php?page=manual) - Placeholder dump of pico-8.txt! (Proper manual coming soon).
+- [Cheat Sheet](https://dl.dropboxusercontent.com/u/3594143/yal.cc/r/picodoc/index.html) - by [YellowAfterlife](http://twitter.com/yellowafterlife). Based on the official manual, with edits where found appropriate.
 
 ## Tools
-- [PicoLove](https://github.com/ftsf/picolove) - Pico-8 Reimplementation in Love2D
-- [Sprite Editor](http://www.lexaloffle.com/bbs/?tid=2462) - External sprite editor compatible with Pico-8 and PicoLove
-
+- [PicoLove](https://github.com/ftsf/picolove) - Pico-8 Reimplementation in Love2D.
+- [Sprite Editor](http://www.lexaloffle.com/bbs/?tid=2462) - External sprite editor compatible with Pico-8 and PicoLove.
+- [Spritesheets and tools for the PICO-8 Palette](https://www.reddit.com/r/pico8/comments/3jhmni/spritesheets_and_tools_for_the_pico8_palette/) - Compilation of works assest and tools using the PICO-8 palette.
 ## Blogs, Magazines, etc
-- [PicoZine #1](http://sectordub.itch.io/pico-8-fanzine-1) and [#2](http://sectordub.itch.io/pico-8-fanzine-2) - PICO-8 Zine is a 48-page fanzine made by and for PICO-8 users
+- [PicoZine #1](http://sectordub.itch.io/pico-8-fanzine-1) and [#2](http://sectordub.itch.io/pico-8-fanzine-2) - PICO-8 Zine is a 48-page fanzine made by and for PICO-8 users.
 
 ## I Want to Contribute!
 
 Great! :smiley:
 
-Just read the [contribution guidelines](CONTRIBUTING.md) first.
+Please, read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
 
