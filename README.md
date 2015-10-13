@@ -23,6 +23,8 @@
 - [Pico-8 Wiki](http://pico-8.wikia.com/wiki/Pico-8_Wikia)
 
 ## Resources
+- [Official Manual](http://www.lexaloffle.com/pico-8.php?page=manual) - Placeholder dump of pico-8.txt! (Proper manual coming soon)
+- [Cheat Sheet](https://dl.dropboxusercontent.com/u/3594143/yal.cc/r/picodoc/index.html) - by [YellowAfterlife](http://twitter.com/yellowafterlife). Based on the program's manual, with edits where found appropriate
 
 ## Tools
 - [PicoLove](https://github.com/ftsf/picolove) - Pico-8 Reimplementation in Love2D
