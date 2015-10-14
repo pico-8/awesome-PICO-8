@@ -6,7 +6,7 @@
 
  PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. When you turn it on, the machine greets you with a shell for typing in a subset of [Lua](http://www.lua.org/) commands and provides simple built-in tools for creating your own cartridges.
 
-
+## Table of Contents
 - [Community](#community)
 - [Resources](#resources)
 - [Contributing](#i-want-to-contribute)
