@@ -9,6 +9,7 @@
 ## Table of Contents
 - [Community](#community)
 - [Resources](#resources)
+- [Tutorials](#tutorials)
 - [Contributing](#i-want-to-contribute)
 - [License](#license)
 
