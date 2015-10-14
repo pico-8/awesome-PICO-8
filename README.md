@@ -10,6 +10,7 @@
 - [Community](#community)
 - [Resources](#resources)
 - [Tutorials](#tutorials)
+- [Tools](#tools)
 - [Contributing](#i-want-to-contribute)
 - [License](#license)
 
