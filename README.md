@@ -40,6 +40,7 @@
 - [PicoLove](https://github.com/ftsf/picolove) - Pico-8 Reimplementation in Love2D.
 - [Sprite Editor](http://www.lexaloffle.com/bbs/?tid=2462) - External sprite editor compatible with Pico-8 and PicoLove.
 - [Spritesheets and tools for the PICO-8 Palette](https://www.reddit.com/r/pico8/comments/3jhmni/spritesheets_and_tools_for_the_pico8_palette/) - Compilation of works assest and tools using the PICO-8 palette.
+- [Pico8Utils](https://github.com/josefnpat/pico8utils) - Compliation of lua scripts based on the unix philosophy for working with .p8 files.
 
 ## I Want to Contribute!
 
