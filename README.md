@@ -30,6 +30,7 @@
 - [Official Manual](http://www.lexaloffle.com/pico-8.php?page=manual) - Placeholder dump of pico-8.txt! (Proper manual coming soon).
 - [Cheat Sheet](https://dl.dropboxusercontent.com/u/3594143/yal.cc/r/picodoc/index.html) - by [YellowAfterlife](http://twitter.com/yellowafterlife). Based on the official manual, with edits where found appropriate.
 - [PicoZine #1](http://sectordub.itch.io/pico-8-fanzine-1) and [#2](http://sectordub.itch.io/pico-8-fanzine-2) - PICO-8 Zine is a 48-page fanzine made by and for PICO-8 users.
+- [Going from Lua 5.2 to PICO-8's Lua](https://gist.github.com/josefnpat/bfe4aaa5bbb44f572cd0) - This document is here to help folks with a proficiency in Lua understand the limitations and discrepencies between Lua and PICO-8's Lua.
 
 ## Tutorials
 - [Music Tracker Tutorial Series](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg) - Making audio with PICO-8
