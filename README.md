@@ -23,6 +23,8 @@
   - [Facebook](https://www.facebook.com/lexaloffle/)
   - [Youtube](https://www.youtube.com/user/lexaloffletv)
 - [Sub Reddit](https://www.reddit.com/r/pico8/)
+- [#pico8 on Twitter](http://www.twitter.com/#pico8)
+- [IRC](irc://freenode/pico8)
 - [Pico-8 Console News](https://twitter.com/pico8console)
 - [Pico-8 Wiki](http://pico-8.wikia.com/wiki/Pico-8_Wikia)
 
