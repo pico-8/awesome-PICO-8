@@ -22,8 +22,9 @@
   - [Twitter](https://twitter.com/lexaloffle)
   - [Facebook](https://www.facebook.com/lexaloffle/)
   - [Youtube](https://www.youtube.com/user/lexaloffletv)
-- [Sub Reddit](https://www.reddit.com/r/pico8/)
+- [Subreddit](https://www.reddit.com/r/pico8/)
 - [#pico8 on Twitter](http://www.twitter.com/#pico8)
+- [#pico8 on Freenode](http://webchat.freenode.net/?randomnick=1&channels=#pico8&prompt=1)
 - [Pico-8 Console News](https://twitter.com/pico8console)
 - [Pico-8 Wiki](http://pico-8.wikia.com/wiki/Pico-8_Wikia)
 
