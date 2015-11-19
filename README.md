@@ -45,11 +45,11 @@
 ## Tools
 - [PicoLove](https://github.com/ftsf/picolove) - Pico-8 Reimplementation in LÖVE.
 - [Sprite Editor](http://www.lexaloffle.com/bbs/?tid=2462) - External sprite editor compatible with Pico-8 and PicoLove.
-- [pico2png](https://github.com/briacp/pico2png) - spritesheet extraction written in perl.
+- [pico2png](https://github.com/briacp/pico2png) - Spritesheet extraction written in perl.
 - [Spritesheets and tools for the PICO-8 Palette](https://www.reddit.com/r/pico8/comments/3jhmni/spritesheets_and_tools_for_the_pico8_palette/) - Compilation of works assest and tools using the PICO-8 palette.
-- [Pico8Utils](https://github.com/josefnpat/pico8utils) - Compliation of lua scripts based on the unix philosophy for working with .p8 files.
+- [Pico8Utils](https://github.com/josefnpat/pico8utils) - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
 - [picotool](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
-- [p8dl](https://github.com/franciscod/p8dl) - Downloads cartridges into the correct folder (looks at your config.txt).
+- [p8dl](https://github.com/franciscod/p8dl) - downloads cartridges into the correct folder (looks at your config.txt)
 
 ## Articles & Posts
 - [Indie Retro News](http://www.indieretronews.com/2015/10/pico-8-8-bit-fantasy-console-from.html) - A great introduction to PICO-8 by [@ABrugsch](https://twitter.com/ABrugsch)
