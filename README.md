@@ -17,7 +17,7 @@
 
 ## Community
 - [Lexaloffle](http://www.lexaloffle.com)
-- - [Blog](http://www.lexaloffle.com/bbs/?uid=1)
+  - [Blog](http://www.lexaloffle.com/bbs/?uid=1)
   - [PICO-8](http://www.lexaloffle.com/pico-8.php)
   - [Forum/BBS](http://www.lexaloffle.com/bbs/?cat=7)
   - [Twitter](https://twitter.com/lexaloffle)
