@@ -53,7 +53,7 @@
 - [Pico8Utils](https://github.com/josefnpat/pico8utils) - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
 - [picotool](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
 - [p8dl](https://github.com/franciscod/p8dl) - Downloads cartridges into the correct folder (looks at your config.txt).
-- [p8 responsive webplayer transform](http://benwiley4000.github.io/pico8-responsive-webplayer-transform/pico8_responsive.html) - Python script that makes your HTML export page responsive.
+- [p8 responsive webplayer transform](https://github.com/benwiley4000/pico8-responsive-webplayer-transform) - Python script that makes your HTML export page responsive.
 
 ## Articles & Posts
 - [Indie Retro News](http://www.indieretronews.com/2015/10/pico-8-8-bit-fantasy-console-from.html) - A great introduction to PICO-8 by [@ABrugsch](https://twitter.com/ABrugsch).
