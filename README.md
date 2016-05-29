@@ -9,6 +9,7 @@
  PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. When you turn it on, the machine greets you with a shell for typing in a subset of [Lua](http://www.lua.org/) commands and provides simple built-in tools for creating your own cartridges.
 
 ## Table of Contents
+
 - [Community](#community)
 - [Resources](#resources)
 - [Tutorials](#tutorials)
@@ -16,8 +17,8 @@
 - [Contributing](#i-want-to-contribute)
 - [License](#license)
 
-
 ## Community
+
 - [Lexaloffle](http://www.lexaloffle.com)
   - [Blog](http://www.lexaloffle.com/bbs/?uid=1)
   - [PICO-8](http://www.lexaloffle.com/pico-8.php)
@@ -32,20 +33,20 @@
 - [Pico-8 Wiki](http://pico-8.wikia.com/wiki/Pico-8_Wikia)
 - [Slack team](http://catgirl.goddess.moe:3000/)
 
-
 ## Resources
+
 - [Official Manual](http://www.lexaloffle.com/pico-8.php?page=manual) - Placeholder dump of pico-8.txt! (Proper manual coming soon).
 - [Cheat Sheet](https://dl.dropboxusercontent.com/u/3594143/yal.cc/r/picodoc/index.html) - by [YellowAfterlife](http://twitter.com/yellowafterlife). Based on the official manual, with edits where found appropriate.
 - [PicoZine #1](http://sectordub.itch.io/pico-8-fanzine-1), [#2](http://sectordub.itch.io/pico-8-fanzine-2), [#3](http://sectordub.itch.io/pico-8-fanzine-3) and [#4](https://sectordub.itch.io/-pico-8-zine-4) - PICO-8 Zine is a 48-page fanzine made by and for PICO-8 users.
 - [Going from Lua 5.2 to PICO-8's Lua](https://gist.github.com/josefnpat/bfe4aaa5bbb44f572cd0) - This document is here to help folks with a proficiency in Lua understand the limitations and discrepencies between Lua and PICO-8's Lua.
 
-
 ## Tutorials
+
 - [Music Tracker Tutorial Series](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg) - Making audio with PICO-8
 - [Tron Lightcycle game from scratch](https://youtu.be/ZuaLuMhwcc8) - A quick introduction to PICO-8 writing a game from scratch
 
-
 ## Tools
+
 - [PicoLove](https://github.com/ftsf/picolove) - Pico-8 Reimplementation in LÖVE.
 - [Sprite Editor](http://www.lexaloffle.com/bbs/?tid=2462) - External sprite editor compatible with Pico-8 and PicoLove.
 - [pico2png](https://github.com/briacp/pico2png) - Spritesheet extraction written in perl.
@@ -54,8 +55,10 @@
 - [picotool](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
 - [p8dl](https://github.com/franciscod/p8dl) - Downloads cartridges into the correct folder (looks at your config.txt).
 - [p8 responsive webplayer transform](https://github.com/benwiley4000/pico8-responsive-webplayer-transform) - Python script that makes your HTML export page responsive.
+- [Color Palette](http://www.romanzolotarev.com/pico-8-color-palette/) - Hex and RGB colors codes for web.
 
 ## Articles & Posts
+
 - [Indie Retro News](http://www.indieretronews.com/2015/10/pico-8-8-bit-fantasy-console-from.html) - A great introduction to PICO-8 by [@ABrugsch](https://twitter.com/ABrugsch).
 - [Clear Code](http://blog.jvscott.net/post/128051478244/clear-code) - 3 part series on how to write better pico-8 code.
 
