@@ -62,7 +62,7 @@
 
 ## Hacks - undocumented PICO-8 features
 
-- [How to retrieve mouse coordinates](http://www.lexaloffle.com/bbs/?tid=3549)
+- [Mouse](http://www.lexaloffle.com/bbs/?tid=3549) - How to retrieve mouse coordinates (with demo)
 
 ## Articles & Posts
 
