@@ -14,7 +14,7 @@
 - [Resources](#resources)
 - [Tutorials](#tutorials)
 - [Tools](#tools)
-- [Articles & Posts](#articles--posts]
+- [Articles & Posts](#articles--posts)
 - [Podcasts](#podcasts)
 - [Contributing](#i-want-to-contribute)
 - [License](#license)
