@@ -14,6 +14,8 @@
 - [Resources](#resources)
 - [Tutorials](#tutorials)
 - [Tools](#tools)
+- [Articles & Posts](#articles--posts]
+- [Podcasts](#podcasts)
 - [Contributing](#i-want-to-contribute)
 - [License](#license)
 
@@ -61,6 +63,10 @@
 
 - [Indie Retro News](http://www.indieretronews.com/2015/10/pico-8-8-bit-fantasy-console-from.html) - A great introduction to PICO-8 by [@ABrugsch](https://twitter.com/ABrugsch).
 - [Clear Code](http://blog.jvscott.net/post/128051478244/clear-code) - 3 part series on how to write better pico-8 code.
+
+## Podcasts
+
+- [pico chat](http://pico.electrobureau.com/) - A bite-sized podcast about Pico-8 and other tiny games.
 
 ## I Want to Contribute!
 
