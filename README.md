@@ -14,6 +14,7 @@
 - [Resources](#resources)
 - [Tutorials](#tutorials)
 - [Tools](#tools)
+- [Hacks](#hacks)
 - [Articles & Posts](#articles--posts)
 - [Podcasts](#podcasts)
 - [Contributing](#i-want-to-contribute)
@@ -58,6 +59,10 @@
 - [p8dl](https://github.com/franciscod/p8dl) - Downloads cartridges into the correct folder (looks at your config.txt).
 - [p8 responsive webplayer transform](https://github.com/benwiley4000/pico8-responsive-webplayer-transform) - Python script that makes your HTML export page responsive.
 - [Color Palette](http://www.romanzolotarev.com/pico-8-color-palette/) - Hex and RGB colors codes for web.
+
+## Hacks - undocumented PICO-8 features
+
+- [How to retrieve mouse coordinates](http://www.lexaloffle.com/bbs/?tid=3549)
 
 ## Articles & Posts
 
