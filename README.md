@@ -65,6 +65,7 @@
 ## Hacks - undocumented PICO-8 features
 
 - [Mouse](http://www.lexaloffle.com/bbs/?tid=3549) - How to retrieve mouse coordinates (with demo)
+- [p8keyboard.js](https://github.com/dppc/p8keyboard.js) - Javascript "keyboard adapter" for the Pico-8. Send ASCII characters to a Pico-8 program running in a browser.
 
 ## Articles & Posts
 
