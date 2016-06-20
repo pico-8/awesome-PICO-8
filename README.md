@@ -62,6 +62,7 @@
 - [PICO-8 font](https://drive.google.com/file/d/0B97Um39fHXlcWUFRZlBqUndhbXM/view) - by [RhythmLynx](http://www.lexaloffle.com/bbs/?uid=11704).
 - [pico-test](https://github.com/jozanza/pico-test) - PICO-8 testing framework.
 - [Lib-Pico8](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions.
+- [pico8-missing-builtins](https://github.com/adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8.
 
 ## Hacks - undocumented PICO-8 features
 
