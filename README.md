@@ -68,6 +68,7 @@
 
 - [Mouse](http://www.lexaloffle.com/bbs/?tid=3549) - How to retrieve mouse coordinates (with demo)
 - [p8keyboard.js](https://github.com/dppc/p8keyboard.js) - Javascript "keyboard adapter" for the Pico-8. Send ASCII characters to a Pico-8 program running in a browser.
+- [Pico-8 Networking](http://www.lexaloffle.com/bbs/?tid=3256) - Play multiplayer PICO-8 games over the internet (up to 8 players).
 
 ## Articles & Posts
 
