@@ -70,6 +70,10 @@
 - [p8keyboard.js](https://github.com/dppc/p8keyboard.js) - Javascript "keyboard adapter" for the Pico-8. Send ASCII characters to a Pico-8 program running in a browser.
 - [Pico-8 Networking](http://www.lexaloffle.com/bbs/?tid=3256) - Play multiplayer PICO-8 games over the internet (up to 8 players).
 
+## Hardware
+
+- [PocketC.H.I.P](https://getchip.com/pages/pocketchip) - A portable mini-computer, a game console, a portable synthesizer and a Linux field terminal with PICO-8 pre-installed.
+
 ## Articles & Posts
 
 - [Indie Retro News](http://www.indieretronews.com/2015/10/pico-8-8-bit-fantasy-console-from.html) - A great introduction to PICO-8 by [@ABrugsch](https://twitter.com/ABrugsch).
