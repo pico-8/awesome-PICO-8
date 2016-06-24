@@ -34,7 +34,8 @@
 - [#pico8 on Freenode](http://webchat.freenode.net/?randomnick=1&channels=#pico8&prompt=1)
 - [Pico-8 Console News](https://twitter.com/pico8console)
 - [Pico-8 Wiki](http://pico-8.wikia.com/wiki/Pico-8_Wikia)
-- [Slack team](http://catgirl.goddess.moe:3000/)
+- [Slack Team](https://slofile.com/slack/pico-8) - PICO-8 Slack chat
+  - [Alternative Link](http://catgirl.goddess.moe:3000/) - Original invite form running at [JTE](http://www.lexaloffle.com/bbs/?uid=2836)'s server
 
 ## Resources
 
