@@ -34,8 +34,8 @@
 - [#pico8 on Freenode](http://webchat.freenode.net/?randomnick=1&channels=#pico8&prompt=1)
 - [Pico-8 Console News](https://twitter.com/pico8console)
 - [Pico-8 Wiki](http://pico-8.wikia.com/wiki/Pico-8_Wikia)
-- [Slack Team](https://slofile.com/slack/pico-8) - PICO-8 Slack chat
-  - [Alternative Link](http://catgirl.goddess.moe:3000/) - Original invite form running at [JTE](http://www.lexaloffle.com/bbs/?uid=2836)'s server
+- [Slack Team](https://slofile.com/slack/pico-8) - PICO-8 Slack chat.
+  - [Alternative Link](http://catgirl.goddess.moe:3000/) - Original invite form running at [JTE](http://www.lexaloffle.com/bbs/?uid=2836)'s server.
 
 ## Resources
 
@@ -46,8 +46,8 @@
 
 ## Tutorials
 
-- [Music Tracker Tutorial Series](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg) - Making audio with PICO-8
-- [Tron Lightcycle game from scratch](https://youtu.be/ZuaLuMhwcc8) - A quick introduction to PICO-8 writing a game from scratch
+- [Music Tracker Tutorial Series](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg) - Making audio with PICO-8.
+- [Tron Lightcycle game from scratch](https://youtu.be/ZuaLuMhwcc8) - A quick introduction to PICO-8 writing a game from scratch.
 
 ## Tools
 
@@ -64,10 +64,11 @@
 - [pico-test](https://github.com/jozanza/pico-test) - PICO-8 testing framework.
 - [Lib-Pico8](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions.
 - [pico8-missing-builtins](https://github.com/adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8.
+- [Sublime PICO-8](https://packagecontrol.io/packages/PICO-8) - PICO-8 plugin for the Sublime Text editor (color scheme, font, build system, code completion, snippets...).
 
 ## Hacks - undocumented PICO-8 features
 
-- [Mouse](http://www.lexaloffle.com/bbs/?tid=3549) - How to retrieve mouse coordinates (with demo)
+- [Mouse](http://www.lexaloffle.com/bbs/?tid=3549) - How to retrieve mouse coordinates (with demo).
 - [p8keyboard.js](https://github.com/dppc/p8keyboard.js) - Javascript "keyboard adapter" for the Pico-8. Send ASCII characters to a Pico-8 program running in a browser.
 - [Pico-8 Networking](http://www.lexaloffle.com/bbs/?tid=3256) - Play multiplayer PICO-8 games over the internet (up to 8 players).
 
