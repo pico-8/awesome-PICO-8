@@ -67,7 +67,7 @@
 - [Lib-Pico8](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions.
 - [pico8-missing-builtins](https://github.com/adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8.
 - [Sublime PICO-8](https://packagecontrol.io/packages/PICO-8) - PICO-8 plugin for the Sublime Text editor (color scheme, font, build system, code completion, snippets...).
-- [P8Coder](http://blog.thrill-project.com/p8coder-pico-8-programming-tool/) - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
+- [P8Coder](https://github.com/movAX13h/P8Coder) - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
 
 ## Hacks - undocumented PICO-8 features
 
