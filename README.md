@@ -14,6 +14,7 @@
 - [Resources](#resources)
 - [Tutorials](#tutorials)
 - [Tools](#tools)
+- [Text Editors Language Support](#text-editors-language-support)
 - [Hacks](#hacks---undocumented-pico-8-features)
 - [Articles & Posts](#articles--posts)
 - [Podcasts](#podcasts)
@@ -66,10 +67,13 @@
 - [pico-test](https://github.com/jozanza/pico-test) - PICO-8 testing framework.
 - [Lib-Pico8](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions.
 - [pico8-missing-builtins](https://github.com/adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8.
-- [Sublime PICO-8](https://packagecontrol.io/packages/PICO-8) - PICO-8 plugin for the Sublime Text editor (color scheme, font, build system, code completion, snippets...).
 - [P8Coder](https://github.com/movAX13h/P8Coder) - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
-- [vscode-pico8](https://github.com/nathanchere/vscode-pico8) - PICO-8 language support for Visual Studio Code
-- [language-pico8](https://atom.io/packages/language-pico8) - PICO-8 language support for Atom
+
+## Text Editors Language Support
+- Visual Studio Code: [vscode-pico8](https://github.com/nathanchere/vscode-pico8)
+- Atom: [language-pico8](https://atom.io/packages/language-pico8)
+- Sublime: [Sublime PICO-8](https://packagecontrol.io/packages/PICO-8) - PICO-8 plugin for the Sublime Text editor (color scheme, font, build system, code completion, snippets...).
+- Vim: [vim-pico8-syntax](https://github.com/justinj/vim-pico8-syntax)
 
 ## Hacks - undocumented PICO-8 features
 
