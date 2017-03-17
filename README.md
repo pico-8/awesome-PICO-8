@@ -72,10 +72,20 @@
 - [P8Coder](https://github.com/movAX13h/P8Coder) - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
 
 ## Text Editors Language Support
+
 - Visual Studio Code: [vscode-pico8](https://github.com/nathanchere/vscode-pico8)
 - Atom: [language-pico8](https://atom.io/packages/language-pico8)
 - Sublime: [Sublime PICO-8](https://packagecontrol.io/packages/PICO-8) - PICO-8 plugin for the Sublime Text editor (color scheme, font, build system, code completion, snippets...).
 - Vim: [vim-pico8-syntax](https://github.com/justinj/vim-pico8-syntax)
+
+### Programming Fonts
+
+You might be interested to install [pico-8 programming fonts](https://github.com/juanitogan/p8-programming-fonts) they support the pico-8 custom characters as well as various fonts (bitmap and regular anti-aliased fonts). Check the [BBS thread here](http://www.lexaloffle.com/bbs/?tid=28975).
+
+How to install the font(s):
+
+* **Linux:** copy the files on ~/.fonts and `sudo fc-cache -f -v`
+* **Windows:** copy the files on c:/windows/fonts/
 
 ## Hacks - undocumented PICO-8 features
 
