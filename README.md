@@ -91,6 +91,7 @@ How to install the font(s):
 
 - [Mouse](http://www.lexaloffle.com/bbs/?tid=3549) - How to retrieve mouse coordinates (with demo).
 - [p8keyboard.js](https://github.com/dppc/p8keyboard.js) - Javascript "keyboard adapter" for the Pico-8. Send ASCII characters to a Pico-8 program running in a browser.
+- [SFX Modifications](http://www.lexaloffle.com/bbs/?tid=3561) - Four effects that can only be applied by modifying memory (with demo).
 
 ## Hardware
 
