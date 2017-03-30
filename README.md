@@ -62,7 +62,8 @@
 - [Spritesheets and tools for the PICO-8 Palette](https://www.reddit.com/r/pico8/comments/3jhmni/spritesheets_and_tools_for_the_pico8_palette/) - Compilation of works assest and tools using the PICO-8 palette.
 - [Pico8Utils](https://github.com/josefnpat/pico8utils) - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
 - [picotool](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
-- [p8dl](https://github.com/franciscod/p8dl) - Downloads cartridges into the correct folder (looks at your config.txt).
+- [p8dl - Carts Downloader - Python](https://github.com/franciscod/p8dl) - Downloads cartridges into the correct folder (looks at your config.txt).
+- [Pico-8 Carts Downloader - Bash ](https://github.com/kikookoubis/pico-8-carts-bash-downloader) - Downloads cartridge from the BBS (single cart, whole index or dump your favourited entries) & rename them according to their metadata.
 - [p8 responsive webplayer transform](https://github.com/benwiley4000/pico8-responsive-webplayer-transform) - Python script that makes your HTML export page responsive.
 - [Color Palette](http://www.romanzolotarev.com/pico-8-color-palette/) - Hex and RGB colors codes for web.
 - [PICO-8 font](https://drive.google.com/file/d/0B97Um39fHXlcWUFRZlBqUndhbXM/view) - by [RhythmLynx](http://www.lexaloffle.com/bbs/?uid=11704).
