@@ -1,4 +1,4 @@
-# Awesome PICO-8 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+# Awesome PICO-8 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 ![PICO-8](http://www.lexaloffle.com/gfx/p8_jelpi.gif)
 ![tools](http://www.lexaloffle.com/gfx/p8_tracker.gif)
