@@ -113,6 +113,7 @@ How to install the font(s):
 - [TIC-80 by Nesbox](https://nesbox.itch.io/tic) - Tiny Computer, available on HTML 5, Windows, Linux 32/64bit, Android & MacOSX         
 - [PicoLove](https://github.com/gamax92/picolove) - Pico-8 Reimplementation in LÖVE.
 - [LIKO-12](https://github.com/RamiLego4Game/LIKO-12) - A PICO-8 clone with extra abilities, different api and bigger screen width.
+- [PX8](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support).
 
 ## I Want to Contribute!
 
