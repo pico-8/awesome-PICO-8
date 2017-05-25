@@ -38,6 +38,7 @@
 - [Pico-8 Console News](https://twitter.com/pico8console)
 - [Pico-8 Wiki](http://pico-8.wikia.com/wiki/Pico-8_Wikia)
 - [Slack Team](https://slofile.com/slack/pico-8) - PICO-8 Slack chat.
+- [Discord Server](https://discord.gg/EwQ86eq) - PICO-8 Discord chat.
 
 ## Resources
 
