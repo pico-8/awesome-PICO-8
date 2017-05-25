@@ -47,6 +47,7 @@
 - [PicoZine #1](http://sectordub.itch.io/pico-8-fanzine-1), [#2](http://sectordub.itch.io/pico-8-fanzine-2), [#3](http://sectordub.itch.io/pico-8-fanzine-3) and [#4](https://sectordub.itch.io/-pico-8-zine-4) - PICO-8 Zine is a 48-page fanzine made by and for PICO-8 users.
 - [Going from Lua 5.2 to PICO-8's Lua](https://gist.github.com/josefnpat/bfe4aaa5bbb44f572cd0) - This document is here to help folks with a proficiency in Lua understand the limitations and discrepencies between Lua and PICO-8's Lua.
 - [Cheat Sheet (printable)](https://ztiromoritz.github.io/pico-8-spick/) - A reduced cheat sheet in a printable format. German and Englisch version available.
+- [Cheat Sheet (wallpaper)](https://www.lexaloffle.com/bbs/?tid=28207) - An enhancement of the printable cheat sheet for use as a desktop wallpaper.
 
 ## Tutorials
 
