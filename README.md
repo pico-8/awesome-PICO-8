@@ -19,6 +19,7 @@
 - [Hacks](#hacks---undocumented-pico-8-features)
 - [Articles & Posts](#articles--posts)
 - [Podcasts](#podcasts)
+- [Talks](#talks)
 - [Clones](#clones)
 - [Contributing](#i-want-to-contribute)
 - [License](#license)
@@ -113,6 +114,10 @@ How to install the font(s):
 ## Podcasts
 
 - [pico chat](http://pico.electrobureau.com/) - A bite-sized podcast about Pico-8 and other tiny games.
+
+## Talks
+
+- [Sharing the love](https://www.youtube.com/watch?v=AmMYWD2Zbso) - Making games with PICO-8. linux conf au 2017 - Hobart, Australia
 
 ## Clones
 - [TIC-80 by Nesbox](https://nesbox.itch.io/tic) - Tiny Computer, available on HTML 5, Windows, Linux 32/64bit, Android & MacOSX         
