@@ -82,6 +82,7 @@
 - [PICO-Tween](https://github.com/JoebRogers/PICO-Tween) - A small library of tweening/easing functions for use in the PICO-8 fantasy console, inspired by Robert Penner's easing functions.
 - [PICO-TweenMachine](https://github.com/JoebRogers/PICO-Tween) - A small wrapper library for the PICO-8 fantasy console, meant as an extension to the PICO-Tween easing library.
 - [p8](https://github.com/jozanza/p8) - A dependency manager and build tool. Lets you share code/sprites, `require()` dependencies, and auto-reload carts on save. Works with any external code editor and supports [MoonScript](https://moonscript.org/).
+- [MIDI to PICO-8](https://github.com/andmatand/midi-to-pico8) - A tool to convert MIDI files to PICO-8 music.
 
 ## Text Editors Language Support
 
