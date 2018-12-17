@@ -11,22 +11,18 @@
 
 ## Contents
 
-- [Awesome PICO-8 ![Awesome](https://awesome.re)](#awesome-pico-8-awesomehttpsawesomere)
-  - [Contents](#contents)
-  - [Community](#community)
-  - [Resources](#resources)
-  - [Tutorials](#tutorials)
-  - [Tools](#tools)
-  - [Text Editors Language Support](#text-editors-language-support)
-    - [Programming Fonts](#programming-fonts)
-  - [Hacks - undocumented PICO-8 features](#hacks---undocumented-pico-8-features)
-  - [Hardware](#hardware)
-  - [Articles & Posts](#articles--posts)
-  - [Podcasts](#podcasts)
-  - [Talks](#talks)
-  - [Clones](#clones)
-  - [I Want to Contribute!](#i-want-to-contribute)
-  - [License](#license)
+- [Community](#community)
+- [Resources](#resources)
+- [Tutorials](#tutorials)
+- [Tools](#tools)
+- [Text Editors Language Support](#text-editors-language-support)
+- [Hacks](#hacks---undocumented-pico-8-features)
+- [Articles & Posts](#articles--posts)
+- [Podcasts](#podcasts)
+- [Talks](#talks)
+- [Clones](#clones)
+- [Contributing](#i-want-to-contribute)
+- [License](#license)
 
 ## Community
 
