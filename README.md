@@ -111,7 +111,6 @@ How to install the font(s):
 ## Hardware
 
 - [GameShell](https://www.clockworkpi.com/) - A modular handheld game console that allows you to play & modify retro games and DIY new devices. Check the [GameShell Docs](https://github.com/clockworkpi/GameShellDocs/wiki/Running-PICO-8-on-the-GameShell) for how to run PICO-8 on the GameShell.
-- [PocketC.H.I.P](http://blog.nextthing.co/) - A portable mini-computer, a game console, a portable synthesizer and a Linux field terminal with PICO-8 pre-installed.
 
 ## Articles & Posts
 
