@@ -12,6 +12,7 @@
 ## Contents
 
 - [Community](#community)
+- [Demoscene](#demoscene)
 - [Resources](#resources)
 - [Tutorials](#tutorials)
 - [Tools](#tools)
@@ -40,6 +41,14 @@
 - [Pico-8 Wiki](http://pico-8.wikia.com/wiki/Pico-8_Wikia)
 - [Slack Team](https://slofile.com/slack/pico-8) - PICO-8 Slack chat.
 - [Discord Server](https://discord.gg/EwQ86eq) - PICO-8 Discord chat.
+
+## DemoScene
+
+- [Pico-8 demos on Demozoo](https://demozoo.org/platforms/81/) 
+- [Pico-8 demos on Pouet](http://www.pouet.net/prodlist.php?platform%5B%5D=PICO-8) 
+- [Article with demoscene effects code](https://medium.com/swlh/creativity-through-limitation-pico-8-fantasy-console-175294e13332) 
+- [Pico-8 demos on Youtube](https://www.youtube.com/results?search_query=pico+8+demoscene) 
+
 
 ## Resources
 
