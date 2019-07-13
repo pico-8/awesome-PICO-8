@@ -12,6 +12,7 @@
 ## Contents
 
 - [Community](#community)
+- [Demoscene](#demoscene)
 - [Resources](#resources)
 - [Tutorials](#tutorials)
 - [Tools](#tools)
@@ -47,7 +48,6 @@
 - [Pico-8 demos on Pouet](http://www.pouet.net/prodlist.php?platform%5B%5D=PICO-8) 
 - [Article with demoscene effects code](https://medium.com/swlh/creativity-through-limitation-pico-8-fantasy-console-175294e13332) 
 - [Pico-8 demos on Youtube](https://www.youtube.com/results?search_query=pico+8+demoscene) 
-
 
 
 ## Resources
