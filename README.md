@@ -41,6 +41,15 @@
 - [Slack Team](https://slofile.com/slack/pico-8) - PICO-8 Slack chat.
 - [Discord Server](https://discord.gg/EwQ86eq) - PICO-8 Discord chat.
 
+## DemoScene
+
+- [Pico-8 demos on Demozoo](https://demozoo.org/platforms/81/) 
+- [Pico-8 demos on Pouet](http://www.pouet.net/prodlist.php?platform%5B%5D=PICO-8) 
+- [Article with demoscene effects code](https://medium.com/swlh/creativity-through-limitation-pico-8-fantasy-console-175294e13332) 
+- [Pico-8 demos on Youtube](https://www.youtube.com/results?search_query=pico+8+demoscene) 
+
+
+
 ## Resources
 
 - [Official Manual](https://www.lexaloffle.com/pico-8.php?page=manual) - Placeholder dump of pico-8.txt! (Proper manual coming soon).
