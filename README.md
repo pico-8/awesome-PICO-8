@@ -142,6 +142,7 @@ How to install the font(s):
 - [PicoLove](https://github.com/gamax92/picolove) - Pico-8 Reimplementation in LÖVE.
 - [LIKO-12](https://github.com/RamiLego4Game/LIKO-12) - An open source fantasy computer made using LÖVE with 96kb RAM.
 - [PX8](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support).
+- [tac08](https://0xcafed00d.itch.io/tac08-rg350) - tac08 is an emulation of the runtime part of the Pico-8 fantasy console, running on RG350 handheld game console.
 
 ## I Want to Contribute!
 
