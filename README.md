@@ -103,6 +103,7 @@
 - Atom: [language-pico8](https://atom.io/packages/language-pico8)
 - Sublime: [Sublime PICO-8](https://packagecontrol.io/packages/PICO-8) - PICO-8 plugin for the Sublime Text editor (color scheme, font, build system, code completion, snippets...).
 - Vim: [vim-pico8-syntax](https://github.com/justinj/vim-pico8-syntax)
+- Emacs: [pico8-mode](https://github.com/Kaali/pico8-mode)
 
 ### Programming Fonts
 
