@@ -38,14 +38,14 @@
 - [#pico8 on Twitter](https://twitter.com/hashtag/pico8)
 - [#pico8 on Freenode](https://webchat.freenode.net/?randomnick=1&channels=#pico8&prompt=1)
 - [Pico-8 Console News](https://twitter.com/pico8console)
-- [Pico-8 Wiki](http://pico-8.wikia.com/wiki/Pico-8_Wikia)
+- [Pico-8 Wiki](https://pico-8.wikia.com/wiki/Pico-8_Wikia)
 - [Slack Team](https://slofile.com/slack/pico-8) - PICO-8 Slack chat.
 - [Discord Server](https://discord.gg/EwQ86eq) - PICO-8 Discord chat.
 
 ## DemoScene
 
 - [Pico-8 demos on Demozoo](https://demozoo.org/platforms/81/) 
-- [Pico-8 demos on Pouet](http://www.pouet.net/prodlist.php?platform%5B%5D=PICO-8) 
+- [Pico-8 demos on Pouet](https://www.pouet.net/prodlist.php?platform%5B%5D=PICO-8) 
 - [Article with demoscene effects code](https://medium.com/swlh/creativity-through-limitation-pico-8-fantasy-console-175294e13332) 
 - [Pico-8 demos on Youtube](https://www.youtube.com/results?search_query=pico+8+demoscene) 
 
@@ -130,7 +130,6 @@ How to install the font(s):
 ## Articles & Posts
 
 - [Indie Retro News](https://www.indieretronews.com/2015/10/pico-8-8-bit-fantasy-console-from.html) - A great introduction to PICO-8 by [@ABrugsch](https://twitter.com/ABrugsch).
-- [Clear Code](http://blog.jvscott.net/post/128051478244/clear-code) - 3 part series on how to write better pico-8 code.
 
 ## Talks
 
