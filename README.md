@@ -19,7 +19,6 @@
 - [Text Editors Language Support](#text-editors-language-support)
 - [Hacks](#hacks---undocumented-pico-8-features)
 - [Articles & Posts](#articles--posts)
-- [Podcasts](#podcasts)
 - [Talks](#talks)
 - [Clones](#clones)
 - [Contributing](#i-want-to-contribute)
