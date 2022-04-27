@@ -18,13 +18,14 @@
 - [Tools](#tools)
 - [Text Editors Language Support](#text-editors-language-support)
 - [Hacks](#hacks---undocumented-pico-8-features)
+- [Hardware](#hardware)
 - [Articles & Posts](#articles--posts)
 - [Talks](#talks)
 - [Clones](#clones)
 - [Contributing](#i-want-to-contribute)
 - [License](#license)
 
-## Community
+### Community
 
 - [Lexaloffle](https://www.lexaloffle.com)
   - [Blog](https://www.lexaloffle.com/bbs/?uid=1)
@@ -41,7 +42,7 @@
 - [Slack Team](https://slofile.com/slack/pico-8) - PICO-8 Slack chat.
 - [Discord Server](https://discord.gg/EwQ86eq) - PICO-8 Discord chat.
 
-## DemoScene
+### DemoScene
 
 - [Pico-8 demos on Demozoo](https://demozoo.org/platforms/81/) 
 - [Pico-8 demos on Pouet](https://www.pouet.net/prodlist.php?platform%5B%5D=PICO-8) 
@@ -49,7 +50,7 @@
 - [Pico-8 demos on Youtube](https://www.youtube.com/results?search_query=pico+8+demoscene) 
 
 
-## Resources
+### Resources
 
 - [Official Manual](https://www.lexaloffle.com/pico-8.php?page=manual) - Placeholder dump of pico-8.txt! (Proper manual coming soon).
 - [Cheat Sheet](https://neko250.github.io/pico8-api/) - by [Neko250](https://neko250.github.io). Based on the official manual, with edits where found appropriate.
@@ -58,7 +59,7 @@
 - [Cheat Sheet (printable)](https://ztiromoritz.github.io/pico-8-spick/) - A reduced cheat sheet in a printable format. German and English version available.
 - [Cheat Sheet (wallpaper)](https://www.lexaloffle.com/bbs/?tid=28207) - An enhancement of the printable cheat sheet for use as a desktop wallpaper.
 
-## Tutorials
+### Tutorials
 
 - [Music Tracker Tutorial Series](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg) - Making audio with PICO-8.
 - [Tron Lightcycle game from scratch](https://youtu.be/ZuaLuMhwcc8) - A quick introduction to PICO-8 writing a game from scratch.
@@ -69,7 +70,7 @@
 - [Newgrounds Medals Tutorial](https://github.com/Bigaston/pico-8-newgrounds-tutorial) - a little tutorial to add Newgrounds Medals to PICO-8 games.
 - [Binary save system](https://ultiman3rd.wordpress.com/2018/02/01/pico-8-binary-save-system/) - Custom game save system that supports various data types
 
-## Tools
+### Tools
 
 - [Sprite Editor](https://www.lexaloffle.com/bbs/?tid=2462) - External sprite editor compatible with Pico-8 and PicoLove.
 - [pico2png](https://github.com/briacp/pico2png) - Spritesheet extraction written in perl.
@@ -101,7 +102,7 @@
 - [pico8-deploy](https://github.com/tducasse/pico8-deploy) - An easy way to export and deploy PICO-8 projects to itch.io
 - [yap8b](https://github.com/Enerccio/yap8b) - Build tool for creating pico carts from multiple source files.
 
-## Text Editors Language Support
+### Text Editors Language Support
 
 - Visual Studio Code: [vscode-pico8](https://github.com/nathanchere/vscode-pico8)
 - Atom: [language-pico8](https://atom.io/packages/language-pico8)
@@ -118,39 +119,39 @@ How to install the font(s):
 * **Linux:** copy the files on ~/.fonts and `sudo fc-cache -f -v`
 * **Windows:** copy the files on c:/windows/fonts/
 
-## Hacks - undocumented PICO-8 features
+### Hacks - undocumented PICO-8 features
 
 - [Mouse](https://www.lexaloffle.com/bbs/?tid=3549) - How to retrieve mouse coordinates (with demo).
 - [p8keyboard.js](https://github.com/dppc/p8keyboard.js) - Javascript "keyboard adapter" for the Pico-8. Send ASCII characters to a Pico-8 program running in a browser.
 - [SFX Modifications](https://www.lexaloffle.com/bbs/?tid=3561) - Four effects that can only be applied by modifying memory (with demo).
 - [Tracker State/Audio Memory Locations](https://www.lexaloffle.com/bbs/?pid=10719#p10719) - How to access and modify audio data as it is playing.
 
-## Hardware
+### Hardware
 
 - [GameShell](https://www.clockworkpi.com/) - A modular handheld game console that allows you to play & modify retro games and DIY new devices. Check the [GameShell Docs](https://github.com/clockworkpi/GameShellDocs/wiki/Running-PICO-8-on-the-GameShell) for how to run PICO-8 on the GameShell.
 
-## Articles & Posts
+### Articles & Posts
 
 - [Indie Retro News](https://www.indieretronews.com/2015/10/pico-8-8-bit-fantasy-console-from.html) - A great introduction to PICO-8 by [@ABrugsch](https://twitter.com/ABrugsch).
 
-## Talks
+### Talks
 
 - [Sharing the love](https://www.youtube.com/watch?v=AmMYWD2Zbso) - Making games with PICO-8. linux conf au 2017 - Hobart, Australia
 
-## Clones
+### Clones
 - [TIC-80 by Nesbox](https://nesbox.itch.io/tic) - Tiny Computer, available on HTML 5, Windows, Linux 32/64bit, Android & MacOSX
 - [PicoLove](https://github.com/picolove/picolove) - Pico-8 Reimplementation in LÖVE.
 - [LIKO-12](https://github.com/RamiLego4Game/LIKO-12) - An open source fantasy computer made using LÖVE with 96kb RAM.
 - [PX8](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support).
 - [tac08](https://0xcafed00d.itch.io/tac08-rg350) - tac08 is an emulation of the runtime part of the Pico-8 fantasy console, running on RG350 handheld game console.
 
-## I Want to Contribute!
+### I Want to Contribute!
 
 Great! :smiley:
 
 Please, read the [contribution guidelines](CONTRIBUTING.md) first.
 
-## License
+### License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
