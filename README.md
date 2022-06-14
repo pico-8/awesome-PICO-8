@@ -104,7 +104,7 @@
 
 ## Text Editors Language Support
 
-- Visual Studio Code: [vscode-pico8](https://github.com/nathanchere/vscode-pico8)
+- Visual Studio Code: [pico8-ls](https://github.com/japhib/pico8-ls) - PICO-8 Language Server, providing full language support for the PICO-8 dialect of Lua.
 - Atom: [language-pico8](https://atom.io/packages/language-pico8)
 - Sublime: [Sublime PICO-8](https://packagecontrol.io/packages/PICO-8) - PICO-8 plugin for the Sublime Text editor (color scheme, font, build system, code completion, snippets...).
 - Vim: [vim-pico8-syntax](https://github.com/justinj/vim-pico8-syntax)
