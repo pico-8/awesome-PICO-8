@@ -100,6 +100,7 @@
 - [picoCAD](https://johanpeitz.itch.io/picocad) - A PICO-8 program to build and texture lowpoly 3D models.
 - [pico8-deploy](https://github.com/tducasse/pico8-deploy) - An easy way to export and deploy PICO-8 projects to itch.io
 - [yap8b](https://github.com/Enerccio/yap8b) - Build tool for creating pico carts from multiple source files.
+- [TS-PICO-8](https://github.com/tmountain/pico-8-typescript) - Create PICO-8 games using TypeScript.
 
 ## Text Editors Language Support
 
