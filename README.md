@@ -135,6 +135,7 @@ How to install the font(s):
 ### Hardware
 
 - [GameShell](https://www.clockworkpi.com/) - A modular handheld game console that allows you to play & modify retro games and DIY new devices. Check the [GameShell Docs](https://github.com/clockworkpi/GameShellDocs/wiki/Running-PICO-8-on-the-GameShell) for how to run PICO-8 on the GameShell.
+- [PocketChip](https://shop.pocketchip.co/) - A handheld designed for playing and coding anywhere. Officially supported by pico-8. [PoketChip version of pico-8](https://www.lexaloffle.com/bbs/?tid=34009)
 
 ### Articles & Posts
 
@@ -150,6 +151,7 @@ How to install the font(s):
 - [LIKO-12](https://github.com/RamiLego4Game/LIKO-12) - An open source fantasy computer made using LÖVE with 96kb RAM.
 - [PX8](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support).
 - [tac08](https://0xcafed00d.itch.io/tac08-rg350) - tac08 is an emulation of the runtime part of the Pico-8 fantasy console, running on RG350 handheld game console.
+- [LowRes NX](https://lowresnx.inutilis.com/) - Fantasy Console available on IOS, MacOS, Windows, Linux, and GameShell (BASIC code support)
 
 ### I Want to Contribute!
 
