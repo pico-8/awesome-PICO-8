@@ -54,7 +54,6 @@
 ### Resources
 
 - [Official Manual](https://www.lexaloffle.com/pico-8.php?page=manual) - Placeholder dump of pico-8.txt! (Proper manual coming soon).
-- [Cheat Sheet](https://neko250.github.io/pico8-api/) - by [Neko250](https://neko250.github.io). Based on the official manual, with edits where found appropriate.
 - [PicoZine #1](https://sectordub.itch.io/pico-8-fanzine-1), [#2](https://sectordub.itch.io/pico-8-fanzine-2), [#3](https://sectordub.itch.io/pico-8-fanzine-3) and [#4](https://sectordub.itch.io/-pico-8-zine-4) - PICO-8 Zine is a 48-page fanzine made by and for PICO-8 users.
 - [Going from Lua 5.2 to PICO-8's Lua](https://gist.github.com/josefnpat/bfe4aaa5bbb44f572cd0) - This document is here to help folks with a proficiency in Lua understand the limitations and discrepencies between Lua and PICO-8's Lua.
 - [Cheat Sheet (printable)](https://ztiromoritz.github.io/pico-8-spick/) - A reduced cheat sheet in a printable format. German and English version available.
