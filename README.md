@@ -158,6 +158,7 @@ How to install the font(s):
 - [Pikuseru](https://github.com/PikuseruConsole/pikuseru) - Open Source Fantasy Console in pure Rust [Core].
 - [tac08](https://0xcafed00d.itch.io/tac08-rg350) - tac08 is an emulation of the runtime part of the Pico-8 fantasy console, running on RG350 handheld game console.
 - [LowRes NX](https://lowresnx.inutilis.com/) - Fantasy Console available on IOS, MacOS, Windows, Linux, and GameShell (BASIC code support)
+- [BeetPx](https://beetpx.dev/) - A TypeScript framework for pixel art browser games. Heavily inspired by PICO-8.
 
 ### I Want to Contribute!
 
