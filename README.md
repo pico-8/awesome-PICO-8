@@ -70,6 +70,7 @@
 - [Sample code on the BBS](https://www.lexaloffle.com/bbs/?search=sample+code) - the search is not 100% accurate, but some of those cards features some nice tricks you can re-use in your future code.
 - [Newgrounds Medals Tutorial](https://github.com/Bigaston/pico-8-newgrounds-tutorial) - a little tutorial to add Newgrounds Medals to PICO-8 games.
 - [Binary save system](https://ultiman3rd.wordpress.com/2018/02/01/pico-8-binary-save-system/) - Custom game save system that supports various data types
+- [Lazy Devs Breakout](https://youtube.com/playlist?list=PLea8cjCua_P0qjjiG8G5FBgqwpqMU7rBk&si=CaivHwqC6uYjJA21) - step-by-step videos for [roguelikes](https://youtube.com/playlist?list=PLea8cjCua_P3LL7J1Q9b6PJua0A-96uUS&si=ZYrBbZMJr9ABHsnA), [shmups](https://youtube.com/playlist?list=PLea8cjCua_P3Sfq4XJqNVbd1vsWnh7LZd&si=bKKGy-2IKwcTQxeF), and more
 
 ### Tools
 
@@ -110,6 +111,7 @@
 - [parens-8](https://github.com/Siapran/parens-8) - Bypass the Lua token limit with a tiny lisp interpreter/compiler.
 - [p8-canvas](https://github.com/Siapran/p8-canvas) - A high performance infinite canvas/texture library.
 - [pico8-physics](https://github.com/jamesedge/pico8-physics) - Pico8 implementation of Box2d with 8 demos.
+- [SCUMM-8](https://github.com/Liquidream/scumm-8) - De-make of the SCUMM engine for making point-and-click classic adventures.
   
 ### Assets
 - [midilib](https://www.lexaloffle.com/bbs/?cat=7#tag=midilib) - Custom SFX instruments
