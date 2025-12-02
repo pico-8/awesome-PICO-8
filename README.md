@@ -109,7 +109,8 @@
 - [PICO-Tween](https://github.com/JoebRogers/PICO-Tween) - A small library of tweening/easing functions for use in the PICO-8 fantasy console, inspired by Robert Penner's easing functions.
 - [parens-8](https://github.com/Siapran/parens-8) - Bypass the Lua token limit with a tiny lisp interpreter/compiler.
 - [p8-canvas](https://github.com/Siapran/p8-canvas) - A high performance infinite canvas/texture library.
-
+- [pico8-physics](https://github.com/jamesedge/pico8-physics) - Pico8 implementation of Box2d with 8 demos.
+  
 ### Assets
 - [midilib](https://www.lexaloffle.com/bbs/?cat=7#tag=midilib) - Custom SFX instruments
 
