@@ -100,6 +100,7 @@
 - [yap8b](https://github.com/Enerccio/yap8b) - Build tool for creating pico carts from multiple source files.
 - [TS-PICO-8](https://github.com/tmountain/pico-8-typescript) - Create PICO-8 games using TypeScript.
 - [Shrinko8](https://github.com/thisismypassport/shrinko8) - A minifier that aggressively shrinks Pico-8 code size. Also includes a linter and other tools.
+- [jspicl](https://github.com/jspicl/jspicl) - Write PICO-8 games in JavaScript or TypeScript, with live reloading so you can see your changes instantly!
 
 ### Libraries
 
