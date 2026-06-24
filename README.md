@@ -181,3 +181,8 @@ Please, read the [contribution guidelines](CONTRIBUTING.md) first.
 To the extent possible under law, [Felipe Bueno](https://twitter.com/felipebueno) has waived all copyright and related or neighboring rights to this work.
 
 See [LICENSE](LICENSE) for more information.
+
+## Community Resource Additions
+
+<!-- Added 2026-06-24 by zlc000190 -->
+- [Meccha Chameleon Art](https://mecchachameleon.art/) — Fan-made browser companion for Meccha Chameleon (paint-based hide-and-seek Steam game). 50+ hiding spot atlas with color analysis, bilingual (EN/中文). GitHub: https://github.com/zlc000190/AwesomeMecchaChameleonHideSpot
