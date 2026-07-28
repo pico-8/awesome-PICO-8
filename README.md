@@ -113,8 +113,8 @@
 - [pico8-missing-builtins](https://github.com/adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8.
 - [Pico-Kit](https://github.com/outkine/pico-kit) - An opinionated collection of Pico-8 helpers that make it easier to get going.  Adds OOP, better debugging, and physics.
 - [PICO-Tween](https://github.com/JoebRogers/PICO-Tween) - A small library of tweening/easing functions for use in the PICO-8 fantasy console, inspired by Robert Penner's easing functions.
-- [parens-8](https://github.com/Siapran/parens-8) - Bypass the Lua token limit with a tiny lisp interpreter/compiler.
-- [p8-canvas](https://github.com/Siapran/p8-canvas) - A high performance infinite canvas/texture library.
+- [parens-8](https://codeberg.org/wellspring-labs/parens-8) - Bypass the Lua token limit with a tiny Lua interpreter/VM.
+- [p8-canvas](https://codeberg.org/wellspring-labs/p8-canvas) - A high performance infinite canvas/texture library.
 - [pico8-physics](https://github.com/jamesedge/pico8-physics) - Pico8 implementation of Box2d with 8 demos.
 - [SCUMM-8](https://github.com/Liquidream/scumm-8) - De-make of the SCUMM engine for making point-and-click classic adventures.
   
