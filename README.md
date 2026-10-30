@@ -105,6 +105,7 @@
 - [TS-PICO-8](https://github.com/tmountain/pico-8-typescript) - Create PICO-8 games using TypeScript.
 - [Shrinko8](https://github.com/thisismypassport/shrinko8) - A minifier that aggressively shrinks Pico-8 code size. Also includes a linter and other tools.
 - [jspicl](https://github.com/jspicl/jspicl) - Write PICO-8 games in JavaScript or TypeScript, with live reloading so you can see your changes instantly!
+- [pico8-map-render](https://github.com/CJianYu/pico8-map-render) - Renders a cart's map layer to a PNG, including the lower 32 rows of maps taller than 32 tiles that live in the shared sprite-sheet area.
 
 ### Libraries
 
